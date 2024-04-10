@@ -1,0 +1,29 @@
+Scrivere per i seguenti IP: IP Network, IP Gateway ‘convenzionale’, IP Broadcast, quali e quanti ottetti per gli host, quanti e quali per la network.
+
+● 1.1.1.1/8  
+IP Network : 1.0.0.0/8 - IP Gateway ‘convenzionale : 1.0.0.1/8 - IP Broadcast : 1.255.255.255/8 -
+11111111.00000000.00000000.00000000 Network: primi 8 bit - Host: i restanti 24 bit
+
+● 128.1.6.5/12 
+IP Network : 128.0.0.0/12  - IP Gateway ‘convenzionale : 128.0.0.1/12 - IP Broadcast : 128.15.255.255/12 -
+11111111.11110000.00000000.00000000 Network: primi 12 bit - Host: i restanti 20 bit
+
+● 200.1.2.3/24 
+IP Network : 200.1.2.0/24  - IP Gateway ‘convenzionale : 200.1.2.1/24 - IP Broadcast : 200.1.2.255/24 -
+11111111.11111111.11111111.00000000 Network: primi 24 bit - Host: i restanti 8 bit
+
+● 192.192.1.1/22 
+IP Network : 192.192.0.0/22  - IP Gateway ‘convenzionale : 192.192.0.1/22 - IP Broadcast : 192.192.3.255/22 -
+11111111.11111111.11111100.0000000 = Network: primi 22 bit - Host: i restanti 10 bit
+
+● 126.5.4.3/9 
+IP Network :  126.0.0.0/9 - IP Gateway ‘convenzionale : 126.0.0.1/9 - IP Broadcast : 126.127.255.255/9 -
+11111111.10000000.00000000.00000000 = Network: primi 9 bit - Host: i restanti 23 bit
+
+● 200.1.9.8/24 
+IP Network : 200.1.9.0/24  - IP Gateway ‘convenzionale : 200.1.9.1/24 - IP Broadcast : 200.1.9.255/24 -
+11111111.11111111.11111111.00000000 = Network: primi 24 bit - Host: i restanti 8 bit
+
+● 172.16.0.4/16 
+IP Network : 172.16.0.0/16 - IP Gateway ‘convenzionale : 172.16.0.1/16 - IP Broadcast : 172.16.255.255/16 -
+11111111.11111111.00000000.00000000 = Network: primi 16 bit - Host: i restanti 16 bit
